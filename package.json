@@ -1,0 +1,29 @@
+{
+  "name": "lavalink-nodejs",
+  "version": "1.0.0",
+  "description": "Run your lavalink.jar in PM2 or node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ritimbot/lavalink-nodejs.git"
+  },
+  "keywords": [
+    "lavalink",
+    "node",
+    "js"
+  ],
+  "author": "erdem",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ritimbot/lavalink-nodejs/issues"
+  },
+  "homepage": "https://github.com/ritimbot/lavalink-nodejs#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "got": "^11.8.2",
+    "node-fetch": "^2.6.1"
+  }
+}
